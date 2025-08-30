@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+data/raw/
+data/processed/
+models/*.joblib
+models/*.png
+
+.streamlit/
+**/.cache/
+.DS_Store
+.idea/
+.vscode/

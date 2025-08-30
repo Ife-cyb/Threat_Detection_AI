@@ -1,0 +1,7 @@
+dur,pkt_tot,byt_tot,proto,service,state,label
+10,100,1000,TCP,http,FIN,0
+20,250,5000,UDP,dns,INT,1
+5,30,400,TCP,http,FIN,0
+15,150,2000,TCP,ssh,CON,0
+30,500,12000,UDP,ftp,FIN,1
+25,400,8000,TCP,http,INT,1
