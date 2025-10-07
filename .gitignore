@@ -13,3 +13,7 @@ models/*.png
 .DS_Store
 .idea/
 .vscode/
+
+# MLflow
+mlruns/
+mlartifacts/
